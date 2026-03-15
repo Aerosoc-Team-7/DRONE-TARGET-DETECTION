@@ -47,7 +47,7 @@ class PIDController:
 
 
 device = 'cpu'
-model = YOLO('yolov8n.pt').to(device)
+model = YOLO('/models/yolov8n.pt').to(device)
 cap = cv2.VideoCapture(0)
 
 
