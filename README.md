@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # DRONE-TARGET-DETECTION
 # Autonomous Drone Tracking System
 
